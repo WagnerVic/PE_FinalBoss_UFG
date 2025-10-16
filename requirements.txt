@@ -1,0 +1,12 @@
+# Análise de Dados
+pandas
+numpy
+
+# Visualização
+matplotlib
+
+# Machine Learning / Regressão
+scikit-learn
+
+# Jupyter
+jupyter
