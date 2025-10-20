@@ -10,3 +10,4 @@ scikit-learn
 
 # Jupyter
 jupyter
+python-dotenv
