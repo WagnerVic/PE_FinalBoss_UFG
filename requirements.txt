@@ -1,13 +1,15 @@
-# Análise de Dados
-pandas
-numpy
+# Core Data Analysis
+pandas>=2.0.0
+numpy>=1.24.0
 
-# Visualização
-matplotlib
+# Visualization
+matplotlib>=3.7.0
+seaborn>=0.12.0
 
-# Machine Learning / Regressão
-scikit-learn
+# Statistical Analysis
+scipy>=1.10.0
 
-# Jupyter
-jupyter
-python-dotenv
+# Jupyter Notebook Support
+jupyter>=1.0.0
+notebook>=6.5.0
+ipykernel>=6.22.0
